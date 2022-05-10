@@ -1,13 +1,13 @@
 <script setup>
 
 import Navbar from './components/Navbar.vue'
-import Submission from './components/Submission.vue'
+import Gallery from './views/Gallery.vue'
 
 </script>
 
 <template>
   <Navbar></Navbar>
-  <Submission></Submission>
+  <Gallery></Gallery>
 </template>
 
 <style>

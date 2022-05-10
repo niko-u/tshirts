@@ -1,0 +1,38 @@
+[
+    {
+        "id": 123,
+        "title": "Off-White",
+        "artist": "Banksy",
+        "description": "This tshirt was designed to be the best quality design possible",
+        "upvotes": 9999,
+        "images": ["../assets/white.jpeg", "../assets/black.jpeg"],
+        "tags": ["Off-white", "hype", "art"]
+    },
+    {
+        "id": 456,
+        "title": "Gucci",
+        "artist": "Banksy",
+        "description": "This tshirt was designed to be the best quality design possible",
+        "upvotes": 9999,
+        "images": ["../assets/white.jpeg", "../assets/black.jpeg"],
+        "tags": ["Gucci", "hype", "art"]
+    },
+    {
+        "id": 789,
+        "title": "Balenciaga",
+        "artist": "Banksy",
+        "description": "This tshirt was designed to be the best quality design possible",
+        "upvotes": 9999,
+        "images": ["../assets/white.jpeg", "../assets/black.jpeg"],
+        "tags": ["Balenciaga", "hype", "art"]
+    },
+    {
+        "id": 101,
+        "title": "Fendi",
+        "artist": "Banksy",
+        "description": "This tshirt was designed to be the best quality design possible",
+        "upvotes": 9999,
+        "images": ["../assets/white.jpeg", "../assets/black.jpeg"],
+        "tags": ["Fendi", "hype", "art"]
+    }
+]
